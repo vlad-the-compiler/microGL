@@ -13,5 +13,5 @@ https://www.reddit.com/r/arduino/comments/ffol0v/wip_graphics_library_for_esp32_
 
 Nearest-neighbour may be fast, but it sure isn't pleasant to look at. Latest update gives you the option to use bilinear filtering where smoothness is needed. Video and discussion at the link below.
 
-**Update** filtering has been optimized, and now yields 40% better performance compared to the initial implementation.
+**Update:** Filtering has been optimized, and now yields 40% better performance compared to the initial implementation.
 https://www.reddit.com/r/esp32/comments/fi7tsl/wip_extremely_smooth_realtime_image
