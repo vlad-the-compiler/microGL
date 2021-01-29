@@ -4,6 +4,10 @@ A high-quality graphics library for embedded devices that doesn't exist yet.
 
 You can find the development update posts below, in chronological order. Stay tuned for updates!
 
+# Target platform
+
+Long time, no updates. I'm happy to announce that microGL will support the RP2040 chip out of the box, along with ESP32. Future updates on the graphics engine will most likely showcase it running on the Raspberry Pi Pico. RP2040 is the perfect candidate for such a graphics engine, as it has dedicated hardware that accelerates linear transformations.
+
 # Hello, world!
 
 After a long period of ~procrastination~ refactoring, the codebase is now neatly structured, and we've got proper rendering of sprites, and affine transformations. Video at the link below.
